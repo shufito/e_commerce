@@ -1,7 +1,7 @@
 {
   "name": "e_commerce",
   "version": "0.1.0",
-  "homepage": "/",
+  "homepage": "./",
   "private": true,
   "dependencies": {
     "@tailwindcss/aspect-ratio": "^0.4.2",
